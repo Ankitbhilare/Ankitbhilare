@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit bhilare
-- 👀 I know HTML Css JavaScript NodeJS Express MongoDB Mongoose ThreeJs
+- 👀 I know HTML Css JavaScript NodeJS Express MongoDB Mongoose 
 - 🌱 currently learning React and GoLang.
 - 📫 I'm aslo a graphic designer and Video editor
 - 🏫 One is never too old to learn.
